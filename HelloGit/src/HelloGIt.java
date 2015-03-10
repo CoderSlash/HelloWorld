@@ -5,5 +5,6 @@ public class HelloGIt {
 		System.out.println("HelloGit");
 		System.out.println("新增了一条语句");
 		System.out.println("又增加了一条语句");
+		System.out.println("我去GitHub服务器区看看");
 	}
 }
